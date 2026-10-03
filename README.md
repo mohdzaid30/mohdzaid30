@@ -1,16 +1,20 @@
 ## Hi there 👋
+I'm Mohd Zaid,a Computer Science student who enjoys turning ideas into code.
 
-<!--
-**mohdzaid30/mohdzaid30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ Java enthusiast
+🧠 DSA & problem solving
+⚙️ Spring Boot & backend
+🗄️ SQL & databases
+🌱 Open source & continuous learning
 
-Here are some ideas to get you started:
+Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building projects, solving problems, and exploring new technologies.
+
+Tech I'm exploring
+
+Java Spring Boot SQL Git GitHub
+
+Code. Learn. Build. Repeat. 🚀
+
+
